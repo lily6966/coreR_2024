@@ -4,5 +4,7 @@ learn to link local files with remote server
 
 # Liying works on this session
 
+I'm still learning. It is fun to collaborate
+
 #Emily works on this session
 We are practicing collaboration on GitHub. Yay!
